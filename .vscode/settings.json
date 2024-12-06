@@ -1,0 +1,22 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.adapterTargetName": "esp32s3",
+    "idf.customExtraPaths": "d:\\ESPIDF\\tools\\tools\\xtensa-esp-elf-gdb\\14.2_20240403\\xtensa-esp-elf-gdb\\bin;d:\\ESPIDF\\tools\\tools\\riscv32-esp-elf-gdb\\14.2_20240403\\riscv32-esp-elf-gdb\\bin;d:\\ESPIDF\\tools\\tools\\xtensa-esp-elf\\esp-13.2.0_20240530\\xtensa-esp-elf\\bin;d:\\ESPIDF\\tools\\tools\\riscv32-esp-elf\\esp-13.2.0_20240530\\riscv32-esp-elf\\bin;d:\\ESPIDF\\tools\\tools\\esp32ulp-elf\\2.38_20240113\\esp32ulp-elf\\bin;d:\\ESPIDF\\tools\\tools\\cmake\\3.24.0\\bin;d:\\ESPIDF\\tools\\tools\\openocd-esp32\\v0.12.0-esp32-20240318\\openocd-esp32\\bin;d:\\ESPIDF\\tools\\tools\\ninja\\1.11.1;d:\\ESPIDF\\tools\\tools\\idf-exe\\1.0.3;d:\\ESPIDF\\tools\\tools\\ccache\\4.8\\ccache-4.8-windows-x86_64;d:\\ESPIDF\\tools\\tools\\dfu-util\\0.11\\dfu-util-0.11-win64;d:\\ESPIDF\\tools\\tools\\esp-rom-elfs\\20240305",
+    "idf.customExtraVars": {
+        "OPENOCD_SCRIPTS": "d:\\ESPIDF\\tools\\tools\\openocd-esp32\\v0.12.0-esp32-20240318/openocd-esp32/share/openocd/scripts",
+        "IDF_CCACHE_ENABLE": "1",
+        "ESP_ROM_ELF_DIR": "d:\\ESPIDF\\tools\\tools\\esp-rom-elfs\\20240305/"
+    },
+    "idf.espIdfPathWin": "d:\\ESPIDF\\esp\\v5.3.1\\esp-idf",
+    "idf.openOcdConfigs": [
+        "board/esp32s3-bridge.cfg"
+    ],
+    "idf.pythonBinPathWin": "d:\\ESPIDF\\tools\\python_env\\idf5.3_py3.11_env\\Scripts\\python.exe",
+    "idf.toolsPathWin": "d:\\ESPIDF\\tools",
+    "files.associations": {
+        "esp_check.h": "c",
+        "stdlib.h": "c"
+    },
+    "idf.portWin": "COM14",
+    "idf.flashType": "UART"
+}
